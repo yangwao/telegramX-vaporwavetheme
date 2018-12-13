@@ -1,0 +1,21 @@
+!
+name: "Night Black #2 light vaporwave"
+time: 1544706636
+author: "yangwao"
+@
+parentTheme: 2
+#
+attachText, badge, chatListAction, chatListVerify, chatSendButton, circleButtonChatIcon, inlineIcon, inlineOutline, inlineText, messageVerticalLine, textLink: #CC00A1
+background: #1C1C1C
+badgeMuted: #75396B7F
+chatBackground: #181818
+checkActive, controlActive, controlInactive, file, online, progress, ticks, ticksRead, waveformActive: #75396BFE
+circleButtonChat: #1E1E1E
+circleButtonRegularIcon: #EA5ED3FE
+headerIcon: #FF00C970
+headerText: #FF00C972
+icon: #FF00C97E
+iconActive: #FF00C9
+iconLight: #FF00C9A4
+messageSelection, messageSwipeContent, textNeutral: #FF00C986
+text: #FFDBFC
